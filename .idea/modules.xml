@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai_Tap_Nang_Cao/Bai_Tap_Nang_Cao.iml" filepath="$PROJECT_DIR$/Bai_Tap_Nang_Cao/Bai_Tap_Nang_Cao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi2_BTVN/Buoi2_BTVN.iml" filepath="$PROJECT_DIR$/Buoi2_BTVN/Buoi2_BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi3_BTVN/Buoi3_BTVN.iml" filepath="$PROJECT_DIR$/Buoi3_BTVN/Buoi3_BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nguyen_Xuan_Thanh_BTVN.iml" filepath="$PROJECT_DIR$/Nguyen_Xuan_Thanh_BTVN.iml" />
+    </modules>
+  </component>
+</project>
