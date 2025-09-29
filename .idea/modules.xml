@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASM_Java_Core/ASM_Java_Core.iml" filepath="$PROJECT_DIR$/ASM_Java_Core/ASM_Java_Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai_Tap_Nang_Cao/Bai_Tap_Nang_Cao.iml" filepath="$PROJECT_DIR$/Bai_Tap_Nang_Cao/Bai_Tap_Nang_Cao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Buoi2_BTVN/Buoi2_BTVN.iml" filepath="$PROJECT_DIR$/Buoi2_BTVN/Buoi2_BTVN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Buoi3_BTVN/Buoi3_BTVN.iml" filepath="$PROJECT_DIR$/Buoi3_BTVN/Buoi3_BTVN.iml" />
